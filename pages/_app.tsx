@@ -12,7 +12,7 @@ const theme = extendBaseTheme({
   },
   styles: {
     global: () => ({
-      body: { bg: "blue.900" },
+      body: { bg: "blue.200" },
     }),
   },
 });
